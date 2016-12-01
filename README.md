@@ -1,1 +1,1 @@
-http://tokoharu.github.io/testpage/test.html
+これは本当にテストなので何の価値もないです
